@@ -1,0 +1,89 @@
+[ {
+  "id" : "5411cb87-7f34-48f9-a308-1153a10bdfc9",
+  "title" : "Harry Potter and the Philosopher's Stone",
+  "author" : "J.K. Rowling",
+  "summary" : "The story of a young wizard's first year at Hogwarts School of Witchcraft and Wizardry.",
+  "genres" : [ "Fantasy", "Contemporary", "Fiction" ],
+  "year" : null,
+  "publisher" : null
+}, {
+  "id" : "ad52794d-91cf-4ce5-8a7f-15ed47b53325",
+  "title" : "Harry Potter and the Chamber of Secrets",
+  "author" : "J.K. Rowling",
+  "summary" : "Harry's second year at Hogwarts brings fresh challenges and mysterious dangers.",
+  "genres" : [ "Thriller", "Biography" ],
+  "year" : null,
+  "publisher" : null
+}, {
+  "id" : "19ce400d-257c-4125-b729-a8c8e44761ef",
+  "title" : "The Casual Vacancy",
+  "author" : "J.K. Rowling",
+  "summary" : "A dark comedy about a small English town dealing with local politics and social issues.",
+  "genres" : [ "Biography", "Science Fiction" ],
+  "year" : null,
+  "publisher" : null
+}, {
+  "id" : "a140dc72-9a3f-4921-b21f-28bacdefe54c",
+  "title" : "A Game of Thrones",
+  "author" : "George R.R. Martin",
+  "summary" : "The first book in the epic fantasy series A Song of Ice and Fire.",
+  "genres" : [ "Horror", "Drama", "Poetry" ],
+  "year" : null,
+  "publisher" : null
+}, {
+  "id" : "d6c34a19-1e38-4095-b705-ba7a3074193b",
+  "title" : "A Clash of Kings",
+  "author" : "George R.R. Martin",
+  "summary" : "The second novel in the series, continuing the saga of the Seven Kingdoms.",
+  "genres" : [ "Horror", "Classic", "Fiction" ],
+  "year" : null,
+  "publisher" : null
+}, {
+  "id" : "340fa490-c687-42c3-8a43-1b7463d4ef6f",
+  "title" : "The Shining",
+  "author" : "Stephen King",
+  "summary" : "A psychological horror novel about a family serving as winter caretakers of the Overlook Hotel.",
+  "genres" : [ "Drama", "Thriller", "Classic" ],
+  "year" : null,
+  "publisher" : null
+}, {
+  "id" : "dbeb01fb-effa-46c5-bbe7-9282151c2218",
+  "title" : "It",
+  "author" : "Stephen King",
+  "summary" : "A horror novel about seven children who face an ancient, shape-shifting evil.",
+  "genres" : [ "Biography" ],
+  "year" : null,
+  "publisher" : null
+}, {
+  "id" : "c01d469e-1c1d-4b76-b23e-624b646a925f",
+  "title" : "The Stand",
+  "author" : "Stephen King",
+  "summary" : "A post-apocalyptic horror/fantasy novel about the survivors of a pandemic.",
+  "genres" : [ "Adventure" ],
+  "year" : null,
+  "publisher" : null
+}, {
+  "id" : "d3b27052-2470-4195-86cc-2c189dd0628d",
+  "title" : "Unknown Book",
+  "author" : "Jane Austen",
+  "summary" : "A compelling book that explores various themes and ideas.",
+  "genres" : [ "Historical Fiction", "Horror" ],
+  "year" : null,
+  "publisher" : null
+}, {
+  "id" : "d8b0b45e-15da-44c1-a54e-89307401fa32",
+  "title" : "Unknown Book",
+  "author" : "Neil Gaiman",
+  "summary" : "A compelling book that explores various themes and ideas.",
+  "genres" : [ "Horror", "Thriller" ],
+  "year" : null,
+  "publisher" : null
+}, {
+  "id" : "34236791-1ecd-40fc-8b66-29564d959a6b",
+  "title" : "Unknown Book",
+  "author" : "Brandon Sanderson",
+  "summary" : "A compelling book that explores various themes and ideas.",
+  "genres" : [ "Poetry", "Classic", "Science Fiction" ],
+  "year" : null,
+  "publisher" : null
+} ]
